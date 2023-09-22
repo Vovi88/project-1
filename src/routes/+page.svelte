@@ -78,7 +78,7 @@
             </blockquote>
             <figcaption class="mt-8 text-base">
               <div class="font-semibold text-white">Judith Black</div>
-              <div class="mt-1 text-gray-400">Developer</div>
+              <div class="mt-1 bold text-white">Developer</div>
             </figcaption>
           </figure>
         </div>
